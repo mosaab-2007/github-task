@@ -1,17 +1,1 @@
-cd project-folder
-git init
-git add .
-git commit -m "First commit"
-git remote add origin REPOSITORY_URL
-git push -u origin main
-#Modifying a file
-git add .
-git commit -m "Updated teammate file"
-git push origin main
-# Cloning teammate's repository and preparing for Question 3
-git clone TEAMMATE_REPOSITORY_URL
-cd project-team
-git checkout -b my-changes
-git add .
-git commit -m "Updated teammate file"
-git push origin my-changes
+
