@@ -4,3 +4,11 @@ git add .
 git commit -m "First commit"
 git remote add origin REPOSITORY_URL
 git push -u origin main
+Modifying a file
+git add .
+git commit -m "Updated the file content"
+git push origin main
+Editing a teammate's file and updating it
+git clone TEAMMATE_REPOSITORY_URL
+git add .
+git commit -m "Updated teammate file"
