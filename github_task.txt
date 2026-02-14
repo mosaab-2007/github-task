@@ -1,0 +1,6 @@
+cd project-folder
+git init
+git add .
+git commit -m "First commit"
+git remote add origin REPOSITORY_URL
+git push -u origin main
